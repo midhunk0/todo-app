@@ -2,7 +2,6 @@ body {
     background-color: #ffeaa7;
     min-height: 70vh;
     padding: 1rem;
-    box-sizing: border-box;
     display: flex;
     justify-content: center;
     align-items: center;
